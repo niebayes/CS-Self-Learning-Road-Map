@@ -16,7 +16,50 @@
 - [ ] [MIT 6.042J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [x] [离散数学引论](https://book.douban.com/subject/1620641/)
 
-# Programming Language (PL)
+# Data Structures and Algorithms
+- [x] [UCB CS-61B](https://sp18.datastructur.es/)
+- [x] [Leetcode 600 problems](https://leetcode-cn.com/u/lzx071021/)
+- [ ] [Codeforces](https://codeforces.com/)
+
+# Computer Science
+
+## Introduction to Computer Science
+- [x] [CMU 15-213](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f21/www/index.html)
+- [x] [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+
+## Computer Architecture
+- [ ] [UCB CS-61C](https://cs61c.org/sp22/)
+- [ ] [Computer Organization and Design RISC-V Edition](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4)
+
+## Operating Systems
+- [x] [MIT 6.S081](https://pdos.csail.mit.edu/6.S081/2020/)
+- [x] [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+## Computer Networks
+- [x] [Stanford CS-144](https://cs144.github.io/)
+- [x] [Computer Networks: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/index.php)
+
+## Compilers
+- [ ] [Stanford CS-143](https://web.stanford.edu/class/cs143/)
+- [ ] [Compilers: Principles, Techniques, and Tools](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html)
+
+## Databases
+- [x] [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
+- [ ] [PingCAP TinySQL](https://github.com/tidb-incubator/tinysql)
+- [ ] [PingCAP Deep Dive TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html)
+- [x] [Database System Concepts](https://www.db-book.com/)
+
+## Distributed Systems
+- [x] [UCSC CSE-138](http://composition.al/CSE138-2020-03/)
+- [x] [MIT 6.824](http://nil.csail.mit.edu/6.824/2021/)
+- [ ] [PingCAP TinyKV](https://github.com/tidb-incubator/tinykv)
+- [x] [Design Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+## Computer Graphics
+- [ ] [UCSB GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+- [ ] [Fundamentals of Computer Graphics](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035)
+
+# Programming Language
 
 ## C
 - [x] [The C Programming Language](https://www.cs.princeton.edu/~bwk/cbook.html)
@@ -47,47 +90,6 @@
 
 ## Shell
 - [ ] [MIT 6.NULL](https://missing.csail.mit.edu/)
-
-# Data Structures and Algorithms
-- [x] [UCB CS-61B](https://sp18.datastructur.es/)
-- [x] [Leetcode 600 problems](https://leetcode-cn.com/u/lzx071021/)
-- [ ] [Codeforces](https://codeforces.com/)
-
-# Computer Science
-
-## Introduction to Computer Science
-- [x] [CMU 15-213](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f21/www/index.html)
-- [x] [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
-
-## Computer Architecture
-- [ ] [UCB CS-61C](https://cs61c.org/sp22/)
-- [ ] [Computer Organization and Design RISC-V Edition](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4)
-
-## Operating Systems
-- [x] [MIT 6.S081](https://pdos.csail.mit.edu/6.S081/2020/)
-- [x] [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-## Computer Networks
-- [x] [Stanford CS-144](https://cs144.github.io/)
-- [x] [Computer Networks: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/index.php)
-
-## Compilers
-- [ ] [Stanford CS-143](https://web.stanford.edu/class/cs143/)
-
-## Databases
-- [x] [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
-- [ ] [PingCAP TinySQL](https://github.com/tidb-incubator/tinysql)
-- [ ] [PingCAP Deep Dive TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html)
-
-## Distributed Systems
-- [x] [UCSC CSE-138](http://composition.al/CSE138-2020-03/)
-- [x] [MIT 6.824](http://nil.csail.mit.edu/6.824/2021/)
-- [ ] [PingCAP TinyKV](https://github.com/tidb-incubator/tinykv)
-- [x] [Design Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-
-## Computer Graphics
-- [ ] [UCSB GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
-- [ ] [Fundamentals of Computer Graphics](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035)
 
 # Artificial Intelligence
 
